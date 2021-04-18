@@ -1,4 +1,3 @@
-#### @bopeng95
 ```js
 export default {
   name: 'bo peng',
